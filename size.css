@@ -1,0 +1,5 @@
+img:hover{
+  transform:scale(0.7,0.7) rotateZ(330deg);
+  transform: 5s transform;
+}
+
